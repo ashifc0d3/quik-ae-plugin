@@ -1,0 +1,4 @@
+quik_v.2.0.5.jsx        # The main ScriptUI panel file
+README.md                # Overview and installation
+USAGE.md                 # Button-by-button usage reference
+LICENSE.txt              # MIT License text
